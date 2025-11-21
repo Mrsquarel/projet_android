@@ -6,6 +6,22 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+
+    <!-- DHAWINI Official Brand Colors -->
+    <color name="orange">#E65100</color>
+    <color name="orange_light">#FF8A65</color>
+    <color name="yellow_solar">#FFD54F</color>
+    <color name="cream_background">#FFFDE7</color>
     <color name="white">#FFFFFF</color>
-    <color name="orange">#F44336</color>
+
+    <!-- Beautiful Solar Gradient Colors (Top → Bottom) -->
+    <color name="gradient_start">#FFF3E0</color>   <!-- Very light orange -->
+    <color name="gradient_mid1">#FFCC80</color>    <!-- Warm orange -->
+    <color name="gradient_mid2">#FFD54F</color>    <!-- Sunny yellow -->
+    <color name="gradient_end">#FFFFFF</color>     <!-- Pure white -->
+
+    <!-- Button Colors -->
+    <color name="client_orange">#FF9800</color>
+    <color name="installer_blue">#1976D2</color>
+    <color name="admin_dark">#424242</color>
 </resources>

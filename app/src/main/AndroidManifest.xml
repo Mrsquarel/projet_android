@@ -12,14 +12,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Dhawini">
         <activity
+            android:name=".AdminLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CompanyLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuickAssessementActivity"
+            android:exported="false" />
+        <activity
             android:name=".Homepage"
             android:exported="true">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 

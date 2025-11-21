@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Dhawini</string>
+    <string name="app_name">DHAWINI</string>
+    <string name="mascot_description">Mascotte solaire qui vous accueille</string>
+    <string name="welcome_message">Bienvenue sur</string>
+    <string name="role_message">Choisissez votre role</string>
+
+
+    <string name="client_title">CLIENT</string>
+    <string name="client_subtitle">Je veux installer des panneaux solaires</string>
+    <string name="client_button_description">Bouton pour accéder en tant que client particulier</string>
+
+    <string name="installer_title">INSTALLATEUR</string>
+    <string name="installer_subtitle">Je suis un professionnel certifié</string>
+    <string name="installer_button_description">Bouton pour accéder en tant qu’installateur</string>
+
+    <string name="admin_title">ADMIN</string>
+    <string name="admin_subtitle">Accès réservé</string>
+    <string name="admin_button_description">Bouton d’accès administrateur réservé</string>
+
+    <string name="anme_logo_description">Logo officiel ANME - Partenaire du Ministère de l’Énergie</string>
+    <string name="partnership_text">Partenaire officiel du Ministère de l’Énergie\nCertifié ANME et STEG</string>
 </resources>
