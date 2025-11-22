@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27656660398",
+    "project_id": "dhawini",
+    "storage_bucket": "dhawini.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27656660398:android:c8228b717859a09150d43f",
+        "android_client_info": {
+          "package_name": "com.example.dhawini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4mqD7_g7giJjmI_S7WrwFB67px0-3Rn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
