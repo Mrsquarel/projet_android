@@ -12,7 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Dhawini" >
         <activity
-            android:name=".test"
+            android:name=".AdminLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CompanyLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuickAssessementActivity"
             android:exported="false" />
         <activity
             android:name=".Homepage"
