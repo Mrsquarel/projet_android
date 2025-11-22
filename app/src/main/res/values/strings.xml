@@ -19,4 +19,13 @@
 
     <string name="anme_logo_description">Logo officiel ANME - Partenaire du Ministère de l’Énergie</string>
     <string name="partnership_text">Partenaire officiel du Ministère de l’Énergie\nCertifié ANME et STEG</string>
+    <string name="resend_otp">Renvoyer</string>
+    <string name="company_email_hint">Email d\u0027entreprise</string>
+    <string name="send_otp">ENVOYER OTP</string>
+    <string name="otp_code_hint">Code OTP</string>
+    <string name="verify">VÉRIFIER</string>
+    <string name="solar_logo_description">Solar logo</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button_text">SE CONNECTER</string>
+    <string name="revenue_format">%d TND</string>
 </resources>
